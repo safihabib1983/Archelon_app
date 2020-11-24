@@ -1,0 +1,2 @@
+rootProject.name='Archelon_app'
+include ':app'
